@@ -19,4 +19,4 @@ so if this looks cool, go through the official tutorial too!
 Our goal is to get something that look like the image below
 and behaves like a stopwatch with multiple independent timers.
 
-![Goal](goal.png)
+![Goal](/goal.png)
