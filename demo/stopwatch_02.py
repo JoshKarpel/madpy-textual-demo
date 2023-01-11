@@ -10,7 +10,7 @@ class Stopwatch(Widget):
         yield Button("Stop", id="stop")
         yield Button("Reset", id="reset")
 
-        yield Static("00.00")
+        yield Static("00.00", id="time")
 
 
 class StopwatchApp(App):

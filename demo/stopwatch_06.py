@@ -88,7 +88,7 @@ class StopwatchApp(App):
         display: none;
     }
 
-   .running #stop {
+    .running #stop {
         display: block;
     }
     """
